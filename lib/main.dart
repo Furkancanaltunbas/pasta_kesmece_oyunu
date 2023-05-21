@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:pasta_kesmece_oyunu/view/home_page.dart';
+import 'package:pasta_kesmece_oyunu/view/soru_page.dart';
 
 void main() {
-  runApp(const MyApp());
+  runApp(MyApp());
 }
 
 class MyApp extends StatelessWidget {
